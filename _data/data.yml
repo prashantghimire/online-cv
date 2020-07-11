@@ -77,10 +77,6 @@ experiences:
 
 publications:
   title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
   papers:
     - title: "Learning by Doing: How to Develop a Cross-Platform Web App"
       link: "http://www.jite.org/documents/Vol14/JITEv14IIPp145-169Huynh1842.pdf"
