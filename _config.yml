@@ -1,10 +1,10 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Prashant Ghimire
+title: Prashant Ghimire's Resume
 url: 'https://ghimire.me'
 baseurl: '' #change it according to your repository name
-description: Prashant Ghimire's resume.
+description: I’m a passionate Software Engineer with more than five years of experience in full-stack and mobile application development. Lately, I’m working with Java, TypeScript, and AWS DevOps. I’m working with NestJS and MongoDB for my personal projects.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
