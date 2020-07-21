@@ -42,7 +42,7 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    I’m a passionate Software Engineer with five years of experience in full-stack and mobile application development. Lately, I'm working with Java, TypeScript and AWS DevOps. I'm working with NestJS and MongoDB for my personal projects.
+    I’m a passionate Software Engineer with more than five years of experience in full-stack and mobile application development. Lately, I'm working with Java, TypeScript and AWS DevOps. I'm working with NestJS and MongoDB for my personal projects.
 education:
   - degree: BS in Computer Science
     university: Southeastern Louisiana University
@@ -52,40 +52,37 @@ experiences:
     time: 2019 - Present
     company: Capital One, Plano TX.
     details: |
-      - Developed Rest API using Chassis (Spring based in-house Java framework) to manage Capital One customers' device and location history. This information helps customers understand how Capital One manages the security of their accounts.
-
-      - Developed "Folium", a policy management tool, using Angular 8 and Python (Flask). Policies are business rules that perform queries, various checks and make API calls to make business decisions such as challenging suspicious user login.
-
-      - Developed a library that generates normalized user-friendly device names for web and mobile devices based on user-agent. Used in Capital One device history page and suspicious login email.
-
-      - Deploy applications to AWS using Cove (Spinnaker based in-house pipeline tool) and Jenkins job. Test and validate using tools such as JUnit, Cucumber and Splunk.
+      - Developed “Anansi”, a web scraper that crawls hundreds of vehicle dealerships' websites, performs functionality check on Capital One Financing option on the websites, and generates reports. Enabled the auto-finance business to proactively trace the websites with broken integrations. (NodeJS, AWS Lambda)
+      - Developed restful API to manage Capital One customers’ device and location history. Helped customers understand how Capital One manages the security of their accounts. (Java Spring, Cassandra)
+      - Developed “Folium”, a policy management tool. Policies are consumed by a rule engine to perform database queries and API calls to make business decisions. (Angular, Python Flask, Github API)
   - role: Software Engineer
     time: 2016 - 2019
     company: Leviton Innovation Center, New Orleans.
     details: |
-      - Lead Mobile Application developer responsible for developing and deploying My Leviton, a mobile app for controlling and automating Leviton IoT switches and plugin dimmers. 100K+ downloads. (TypeScript, Angular, Ionic Framework, Cordova, Java)
-
-      - Develop and architect Leviton Cloud Services which is the backbone of Leviton IoT devices. (NodeJS, Loopback, Redis, Gulp, Web Sockets, AWS, MySQL)
-
+      - Lead Engineer responsible for developing and deploying “My Leviton”, a mobile app for controlling Leviton IoT devices. 100K+ downloads. (Ionic Framework, Angular, TypeScript, Java)
+      - Developed and architected cloud services to support Leviton IoT devices. (NodeJS, Redis, AWS, MySQL)
   - role: Software Engineer
     time: 2016 - 2016
     company: Verma Systems, Baton Rouge.
     details: |
-      - Developed Scenehound, a mobile application that shows real-time crowd info of restaurants and bars around a vicinity based on user submitted data. (JavaScript ES6, AngularJS, Ionic Framework, Cordova, Java)
-
-      - Migrated legacy ASP.NET Web Form application to ASP.NET MVC. (C#, ASP.NET MVC 5, Entity Framework, SQL Server)
-
+      - Developed “Scenehound”, a mobile app that shows real-time crowd info for restaurants and bars in a vicinity. (Ionic Framework, AngularJS, JavaScript, Java)
+      - Migrated ASP.NET Web Form application to ASP.NET MVC. (C#, Entity Framework, SQL Server)
+  - role: Specialist                                                                                                    Feb 2016 – Present
+    time: 2016 - Present
+    company: US Army Reserve
+    details: |
+      - Demonstrated leadership, teamwork, and a high level of motivation towards accomplishing the mission.
 publications:
   title: Publications
   papers:
-    - title: "Learning by Doing: How to Develop a Cross-Platform Web App"
-      link: "http://www.jite.org/documents/Vol14/JITEv14IIPp145-169Huynh1842.pdf"
-      authors: Dr. Minh Huynh, Prashant Ghimire
-      conference: "Informing Science Institute(InSITE) - 2015"
     - title: "Comparison of Security Algorithms in Cloud Computing"
       link: "http://www.researchgate.net/publication/273694552_Comparison_of_Security_Algorithms_in_Cloud_Computing"
       authors: Dinesh Devkota, Prashant Ghimire, Dr. John Burris, Dr. Ihssan Alkadi
       conference: "IEEE Aerospace - 2015"
+    - title: "Learning by Doing: How to Develop a Cross-Platform Web App"
+      link: "http://www.jite.org/documents/Vol14/JITEv14IIPp145-169Huynh1842.pdf"
+      authors: Dr. Minh Huynh, Prashant Ghimire
+      conference: "Informing Science Institute(InSITE) - 2015"
     - title: "Developing a QR Code/Barcode Processor with a User-defined Database Feature"
       link: "http://www.lulu.com/shop/jordan-whitney-enterprises/bsj6si12014/paperback/product-21766574.html"
       authors: Dr. Minh Huynh, Prashant Ghimire, Xin Zhong
