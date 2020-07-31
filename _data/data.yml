@@ -50,20 +50,20 @@ education:
 experiences:
   - role: Software Engineer
     time: 2019 - Present
-    company: <a href="https://capitalone.com/">Capital One, Plano TX.</a>
+    company: <a target="_blank" href="https://capitalone.com/">Capital One, Plano TX.</a>
     details: |
       - Developed “Anansi”, a web scraper that crawls hundreds of vehicle dealerships' websites, performs functionality check on Capital One Financing option on the websites, and generates reports. Enabled the auto-finance business to proactively trace the websites with broken integrations. (NodeJS, AWS Lambda)
       - Developed restful API to manage Capital One customers’ device and location history. Helped customers understand how Capital One manages the security of their accounts. (Java Spring, Cassandra)
       - Developed “Folium”, a policy management tool. Policies are consumed by a rule engine to perform database queries and API calls to make business decisions. (Angular, Python Flask, Github API)
   - role: Software Engineer
     time: 2016 - 2019
-    company: <a href="https://leviton.com">Leviton Innovation Center, New Orleans.</a>
+    company: <a target="_blank" href="https://leviton.com">Leviton Innovation Center, New Orleans.</a>
     details: |
       - Lead Engineer responsible for developing and deploying “My Leviton”, a mobile app for controlling Leviton IoT devices. 100K+ downloads. (Ionic Framework, Angular, TypeScript, Java)
       - Developed and architected cloud services to support Leviton IoT devices. (NodeJS, Redis, AWS, MySQL)
   - role: Software Engineer
     time: 2016 - 2016
-    company: <a href="https://vermasystems.com">Verma Systems, Baton Rouge.</a>
+    company: <a target="_blank" href="https://vermasystems.com">Verma Systems, Baton Rouge.</a>
     details: |
       - Developed “Scenehound”, a mobile app that shows real-time crowd info for restaurants and bars in a vicinity. (Ionic Framework, AngularJS, JavaScript, Java)
       - Migrated ASP.NET Web Form application to ASP.NET MVC. (C#, Entity Framework, SQL Server)
